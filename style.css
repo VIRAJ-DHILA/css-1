@@ -1,0 +1,82 @@
+.c1
+{
+    background-image:url("3.jpeg");
+    background-size:cover;
+}
+
+.c2
+{
+    background-image:url("2.jpg");
+    background-size:cover;
+}
+
+.c3
+{
+background-image:url("1.jpg");
+    background-size:cover;
+}
+.col-4{
+    
+height:51.5em;
+}
+.c6
+{
+    background-image:url("logo1.jpg");
+    background-size:cover;
+    height:35em;
+}
+.c10
+{
+    background-color:crimson;
+    
+}
+
+.c11
+{
+    background-color:cornsilk;
+    
+}
+
+.c4
+{
+    margin-top:10em;
+    margin-left:1em;
+    margin-right:3em;
+}
+
+
+.c5
+{
+    margin-top:10em;
+    margin-left:1em;
+    margin-right:3em;
+}
+.c7
+{
+    background-color:powderblue;
+    height:30em;
+}
+
+.c8
+{
+    background-color:lightgreen;
+ height:30em;
+}
+h1
+{
+    color:white;
+    text-align: center;
+    margin-top:10em;
+}
+li
+{
+    list-style-type: none;
+    color:white;
+    line-height:7em;
+}
+.p1
+{
+    margin-left:2em;
+    margin-top:7em;
+    color:white;
+}
